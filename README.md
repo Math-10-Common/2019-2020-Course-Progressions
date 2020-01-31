@@ -6,4 +6,5 @@ More Detailed Descriptions of Math 10C Course
 # Measurement Unit
 
 Day 1: Monday, February 2, 2020
--
+- Welcome to Math 10C, ensure timetables and correct room
+- Review Course Outline

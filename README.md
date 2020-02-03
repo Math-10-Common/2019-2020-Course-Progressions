@@ -13,6 +13,12 @@ Day 1: Monday, February 2, 2020
 - Discuss engineering issues that are solved with mathematical ideas (height and length of triangle matching other triangular faces, faces that are subtracted when right-shapes are combined)
 
 Day 2: Tuesday, February 4, 2020
-
+- Create composite figures: Pyramid that fits on Prism, Cone that fits on Cylinder
+- Draw diagrams of these real objects calculating all edges and interior measures
+- Only Measurement:
+  - Pyramid: length, width, height
+  - Prims: length, width, height
+  - Cylinder: diameter and height
+- Advanced: engineer composite shape based on measurements (this one gets taped)
 
 Optional Planning

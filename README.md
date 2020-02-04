@@ -14,12 +14,17 @@ Day 1: Monday, February 2, 2020
 
 Day 2: Tuesday, February 4, 2020
 - Create composite figures: Pyramid that fits on Prism, Cone that fits on Cylinder
-- Draw diagrams of these real objects calculating all edges and interior measures (uses Pythagorean Theorem)
-- Only Measurement:
+- Discussions of why these are right, how Pythagorean Theorem applies
+
+Day 3: Wednesday, February 5, 2020
+- Given Measurements, create objects (now you know what math concepts to include, and how):
   - Pyramid: length, width, height
   - Prims: length, width, height
   - Cylinder: diameter and height (radius is half of diameter)
+- Draw diagrams of these real objects calculating all edges and interior measures (uses Pythagorean Theorem)
 - Advanced: engineer composite shape based on measurements (this one gets taped)
+
+- Trade Shape for Measurement Booklet
 
 Optional Planning
 - Creating Volume and Surface Area Questions

@@ -14,11 +14,22 @@ Day 1: Monday, February 2, 2020
 
 Day 2: Tuesday, February 4, 2020
 - Create composite figures: Pyramid that fits on Prism, Cone that fits on Cylinder
-- Draw diagrams of these real objects calculating all edges and interior measures
+- Draw diagrams of these real objects calculating all edges and interior measures (uses Pythagorean Theorem)
 - Only Measurement:
   - Pyramid: length, width, height
   - Prims: length, width, height
-  - Cylinder: diameter and height
+  - Cylinder: diameter and height (radius is half of diameter)
 - Advanced: engineer composite shape based on measurements (this one gets taped)
 
 Optional Planning
+- Creating Volume and Surface Area Questions
+  - Give all formulaic measures (surface area needs face height, volume needs object height)
+  - Need to use Pythagorean Theorem for surface area or volume
+- See King and Queen Activity
+- Proportions are a way of remembering how to convert between measures
+  - Define Creation
+  - Write math question as ratio, then solve
+- Creating Questions for Conversions
+  - single step, double, multiple steps
+  - base-10 conversations
+  - imperial or Babylonian conversions

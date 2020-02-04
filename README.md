@@ -21,10 +21,14 @@ Day 3: Wednesday, February 5, 2020
   - Pyramid: length, width, height
   - Prims: length, width, height
   - Cylinder: diameter and height (radius is half of diameter)
-- Draw diagrams of these real objects calculating all edges and interior measures (uses Pythagorean Theorem)
 - Advanced: engineer composite shape based on measurements (this one gets taped)
 
 - Trade Shape for Measurement Booklet
+- Use Shape next day to draw diagram from shape and minimum measurements
+
+Day 4, Thursday February 5, 2020
+- Handout objects from yesterday
+- Draw diagrams of these real objects calculating all edges and interior measures (uses Pythagorean Theorem), these get handed in showing work of Pythagorean Theorem
 
 Optional Planning
 - Creating Volume and Surface Area Questions

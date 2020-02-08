@@ -52,7 +52,11 @@ Day 4, Thursday February 6, 2020
   - Write math question as ratio, then solve
 
 Day 5, Friday February 7, 2020
-- Finish Notes Package
+- Work Period for Ratios and Conversions (See Answer Keys)
+- Snowball Activity: create a surface area and volume question for another student
+  - Review how to calculate volume and surface area of a house (prism with pyramid or triangular prism)
+    - Length, width, height are all elements of real, but less than 10 makes mental arithmetic possible
+  - Note: surface area will need Pythagorean Theorem, leave answer as mixed radical to introduce next unit
 
 Optional Planning
 - Creating Volume and Surface Area Questions

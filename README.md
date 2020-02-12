@@ -103,6 +103,8 @@ Optional Planning
 Summary Document: what sort of questions can we write for each topic
 -
 
+---
+
 Day 1, Tuesday, February 11, 2020
 - Introduction to Unit and Skills for Multiplication Factors (Whole Numbers and Prime Numbers)
 - Introduce ways of organizing numbers
@@ -110,6 +112,7 @@ Day 1, Tuesday, February 11, 2020
 Day 2, Wednesday, February 12, 2020
 - Review Composite and Prime Factors, Tables, Trees, Greatest Common Factors, and Lowest Common Multiples
 - Introduce Rational and Irrational Numbers
+
 
 Day 3, Thursday, February 13, 2020
 Day 4, Friday February 14, 2020

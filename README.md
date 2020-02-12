@@ -111,10 +111,12 @@ Day 1, Tuesday, February 11, 2020
 
 Day 2, Wednesday, February 12, 2020
 - Review Composite and Prime Factors, Tables, Trees, Greatest Common Factors, and Lowest Common Multiples
-- Introduce Rational and Irrational Numbers
+- [Optional] Introduce Rational and Irrational Numbers
 
 
-Day 3, Thursday, February 13, 2020
+Day 3, Thursday, February 13, 2020: Work Period for Practice Problems
+
+
 Day 4, Friday February 14, 2020
 
 2 Days, No Classes (February 17 and PD Day February 18)

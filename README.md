@@ -100,7 +100,22 @@ Optional Planning
   - Mixed Radicals and Mixed Powers
   - Application to Pythagorean Theorem, since answer is always square root
 
-Summary Document: what sort of questions can we write for each topic
+Summary Document: what sort of questions can we write for each topic (pair questioning means create answer key, then compare with other person's answer)
+- Chose any whole number and prime factor it
+- Using prime factors, create a perfect square
+- Using prime factors, create a perfect cube
+- For the following questions, use the following boundaries
+    - NOTE: cube radicands can be negative
+    - whole radicals
+    - negative radicals
+    - adding or subtracting whole radicals
+    - nested whole radicals
+  - All answers must be in simplest form (smallest radicand)
+  - Evaluate square roots and cube roots using estimation to 1-decimal place, radicands can be whole, fraction, or perfect square|cube decimals
+  - Convert between whole and mixed radicals, square and cube
+  - Using prime factorization, create perfect radicals with indices greater than 3
+  - Using prime factorization, simplify very large radicands as whole radicals and simplest mixed
+  -
 -
 
 ---
@@ -113,17 +128,25 @@ Day 2, Wednesday, February 12, 2020
 - Review Composite and Prime Factors, Tables, Trees, Greatest Common Factors, and Lowest Common Multiples
 - [Optional] Introduce Rational and Irrational Numbers
 
-
 Day 3, Thursday, February 13, 2020: Work Period for Practice Problems
+- Applications of Prime Factors: Using prime factors to evaluate perfect squares and primes
 
-
-Day 4, Friday February 14, 2020
+Day 4, Friday February 14, 2020: Work Period for practice problems pages 1-7, see lessons 1.1 & 1.2 in Notes Booklet for support
 
 2 Days, No Classes (February 17 and PD Day February 18)
 
 Day 5, Wednesday February 19, 2020
-Day 6, Thursday February 20, 2020
-Day 7, Friday February 21, 2020
+- Rational and Irrational Numbers:
+  - define terminating as rational numbers (i.e. 1/4)
+  - defining non-terminating decimals and repeating decimals as rational numbers (i.e. 1/3), an issue of place value
+  - defining non-terminating, non-repeating decimals as irrational numbers (2^1/2)
+- Estimating perfect square and perfect cubes
+- Section 1.5 Examples 2 - 5 as timed 10 second questions for students to emphasize mental arithmetic
+
+Day 6, Thursday February 20, 2020: paired questioning, see summary questions above
+
+Day 7, Friday February 21, 2020: work period for practice problems Lesson 2, numbers 1 - 13
+
 Day 8, Monday February 24, 2020
 - Quiz, Roots Quiz
 

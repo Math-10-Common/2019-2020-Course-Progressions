@@ -144,14 +144,22 @@ Day 5, Wednesday February 19, 2020
 - Section 1.5 Examples 2 - 5 as timed 10 second questions for students to emphasize mental arithmetic
 
 Day 6, Thursday February 20, 2020: paired questioning, see summary questions above
+- Emphasize reading math for instructions
+- Emphasize vocabulary
 
 Day 7, Friday February 21, 2020: work period for practice problems Lesson 2, numbers 1 - 13
 
 Day 8, Monday February 24, 2020
 - Quiz, Roots Quiz
 
+Note: Review of Roots Quiz only happens on Flex Day with no books, etc.
+
 Day 9, Tuesday February 25, 2020
+- Complete Rationals work booklet examples for 1.6, 1.7, and 1.8
+- Finish all practice questions
+
 Day 10, Wednesday February 26, 2020
+- Begin Powers with Whole Number Exponents (Section 2.1, 2.2)
 
 2 Days, GETCA, No Classes
 
@@ -168,4 +176,4 @@ Day 16, Friday February 7, 2020
 
 ---
 
-# Polynomicals
+# Polynomials

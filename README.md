@@ -15,6 +15,9 @@ Units, ordered, when Total Days is 81
 - Trigonometry: 7 (1 quiz, 1 review, 1 Exam)
 - Course Review: 1
 
+In 2020 Classes where cancelled from March 16, 2020 until ???
+- This has affected daily plans but not the overall unit plans for this document
+
 # Measurement Unit
 - February 3 - 7
 

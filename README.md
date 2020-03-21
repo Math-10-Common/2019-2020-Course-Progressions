@@ -180,3 +180,76 @@ Day 16, Friday February 7, 2020
 ---
 
 # Polynomials
+- See Student Notes Package and Workbook in Folder
+
+Vocabulary and Concepts
+- Review of Prime Numbers and Composite Numbers, will become part of a number-based Factoring Game (Sum-Product)
+  - Include what an inverse number is (compared to reciprocal from Exponent Laws)
+- Review vertical elementary math multiplication (1x1, 2x1, 2x2) to compare place-value to terms in a polynomial
+  - Compare vertical and horizontal notations to traditional questions used to explain distributive property in horizontal notation
+  - Include variable representation (words like FOIL, formulaic) and image descriptions
+- Review reading Order of Operations where brackets have new meaning
+  - BEDMAS (American), PEMDAS (Canadian, Australian), an Image (Mercerian), etc.
+  - Multiplication symbol "x" changes to brackets "packaging entire polynomial" and introduces Distributive Property
+  - "Multiply By" in `3(2x)`
+- "Polynomials are built on a variable and relationships to a single variable instance"
+  - "From x, build a polynomial with symbols and vocabulary"
+  - Illustrates relationships to variable, explored in later topics like Relations and Functions, Linear Functions, etc.
+- Arithmetic Goal: "Multiplying Polynomials and Factoring Polynomials happen at the same time … called verification"
+- Monomial
+- Binomial
+- Trinomial
+- Terms and Common Term
+- Coefficients
+- Variables
+- Exponents (and applicable exponent laws)
+- Degree of Term
+- Degree of Polynomial
+- Symbols with adding and subtracting
+- Inverse Polynomials (including inverse monomial, binomial, and trinomial)
+- Writing Polynomials
+  - ordering degree largest to smallest
+  - ordering variables alphabetically
+  - ordering variables attending to potential binomial-factors (usually for trinomials)
+
+Common Arithmetic (question is often, "write the most simplified polynomial")
+- Adding and Subtracting of monomials or like-terms (also called simplifying)
+  - Includes inverse polynomials
+  - Note: here horizontal notation is most common
+  - Examples with vertical notation introduce Systems of Equations, a future topic
+- Multiplying polynomials (also called expanding and simplifying) and uses horizontal notation mostly
+  - Fun Fact: Horizontal Notation was popularized by textbook publishers whose printing presses handled words in paragraphs easier than how we write common mathematics
+- Note: dividing polynomials is beyond scope of this course and includes Rationalizing the Denominator
+
+Common Word Problem Topics
+- Profit as functions (formulae) using graphing concepts of profit-loss (also called linear functions, a future topic)
+- Distance as d=Vt
+- Distance as perimeter in a compound shape (with polynomial edges that must be calculated)
+- Area as A=lw in rectangles or compound shapes using other 2D area formulae (triangle, circle, parallelogram, rhombus, quadrilateral, etc.)
+- Finding side lengths in right triangles using Pythagorean Theorem
+  - Note: designing questions in Math 10C must start with hypotenuse as factorable polynomial
+  - Utilizes unique factorable polynomials such as addition of squares or difference of squares
+- Volume as V=lwh in rectangular prisms or rectangular compound prisms; and, using other 2D shapes such as prisms with different bases, pyramids, or cylinders
+
+Common Mathematics of Polynomials
+- "Reading the Polynomial to answer if it is factorable"
+- "Rewriting the Polynomial"
+  - decreasing degree
+  - multiple variables written alphabetically or attending-to-factors
+- "The number of terms give hint about amount of mathematics"
+  - Note: check for GCF in any polynomial
+  - 2-terms: difference of squares
+  - 3-terms: decomposition (sum-product game) to create 4-term polynomial and factor-by-grouping
+  - 4-term: factor-by-grouping (fancy name for GCF)
+- CAUTION: advanced questions may have a GCF in one of the factors
+
+Specific Notes
+- Decomposition in a trinomial reverses the simplification of like terms
+- Difference of Squares use conjugates and inverse conjugates
+- Addition of Squares is a shortcut if it is recognizable when reading the polynomial for the first time
+- Inverse conjugates and inverse factors creates some weird polynomials to factor. These are advanced questions
+
+**When is a polynomial factored?** When its factors are "prime", not composite, monomials or binomials (no GCFs)
+- future courses will explore non-"prime" factors (integers and rationals without GCFs) and trinomials not factorable by grouping or the Sum-Product game
+
+---

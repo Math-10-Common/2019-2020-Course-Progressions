@@ -211,6 +211,12 @@ Vocabulary and Concepts
   - ordering degree largest to smallest
   - ordering variables alphabetically
   - ordering variables attending to potential binomial-factors (usually for trinomials)
+- Types of Polynomial Formulae
+  - A,B,C,D are elements of the Real Number System
+  - Standard Form: Ax^2 + Bx + C
+  - General Form: Ax^2 + Bx + C = D
+  - Note: D is often zero, so solving for X here is called finding zeros
+  - Note: Sometimes "finding zeros" is confused with graphing question "finding roots", both have same meaning of "find x"
 
 Common Arithmetic (question is often, "write the most simplified polynomial")
 - Adding and Subtracting of monomials or like-terms (also called simplifying)
